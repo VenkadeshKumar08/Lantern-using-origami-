@@ -94,7 +94,7 @@ Tape
 
 &nbsp;
 
-![][image1]
+![circuit](circuit diagram.jpg)
 
 &nbsp;
 
@@ -146,7 +146,7 @@ Tape
 
 &nbsp;
 
-![][image2]
+![schematic](Schematic diagram.jpg)
 
 &nbsp;
 
@@ -222,7 +222,7 @@ Tape
 
 &nbsp;
 
-![][image3]
+![result](result.jpg)
 
 &nbsp;
 
